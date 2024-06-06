@@ -1,0 +1,4 @@
+﻿  Memorija.c
+C:\Users\ivanb\OneDrive\Desktop\Memorija_Ivan_Baranac\Principi - Ivan Baranac\Memorija.c(39,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ivanb\OneDrive\Desktop\Memorija_Ivan_Baranac\Principi - Ivan Baranac\Memorija.c(354,92): warning C4028: formal parameter 6 different from declaration
+  Principi - Ivan Baranac.vcxproj -> C:\Users\ivanb\OneDrive\Desktop\Memorija_Ivan_Baranac\Principi - Ivan Baranac\x64\Debug\Principi - Ivan Baranac.exe
